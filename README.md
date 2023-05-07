@@ -11,4 +11,4 @@ The lane detection algorithm used in this code follows these basic steps:
 - Resize frames,
 - Change perspective,
 - Convert color space to Lab and HLS,
-- Use a sliding window to detect the lanes."
+- Use a sliding window to detect the lanes.
